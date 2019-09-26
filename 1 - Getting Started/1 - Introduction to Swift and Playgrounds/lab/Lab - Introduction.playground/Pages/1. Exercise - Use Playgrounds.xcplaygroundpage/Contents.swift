@@ -16,8 +16,7 @@ print("Frank Sinatra")
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
+print("Let me see what spring is like on A-Jupiter and Mars")
 
 /*:
 
