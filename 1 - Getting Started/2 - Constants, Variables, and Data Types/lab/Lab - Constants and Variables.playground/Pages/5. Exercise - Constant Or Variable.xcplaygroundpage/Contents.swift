@@ -10,9 +10,14 @@
  
  For each of the metrics above, declare either a constant or a variable and assign it a value corresponding to a hypothetical post. Be sure to use proper naming conventions.
  */
+var numberOflikes = 60
 
+var numberOfcomments = 15
 
+let yearCreated = "2005"
 
+var monthPostWasCreated = Int.random(in:1...12)
 
+let dayOfMonth = "15 of October"
 
 //: [Previous](@previous)  |  page 5 of 10  |  [Next: App Exercise - Fitness Tracker: Constant or Variable?](@next)
