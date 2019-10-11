@@ -18,13 +18,16 @@ var age = Int.random(in:1...100)
 print ("the reason why I chose age as a variable because the user will not be the same age throuought using this fitness tracking app.")
 
 var numberOfStepsTakenToday = 204
-print ("the reason why this is a variable because the numer of steps will not be consistent" )
+print ("the reason why this is a variable because the number of steps will not be consistent" )
 
 var goalNumberSteps = 300
 print ("the reason why this is a variable because the goal for the amount of number of steps will vary each day")
 
 var averageHeartRate = 234
 print ("The reaspn why this is a variable because the average of the heart rate will not always be the same and will change")
+
+
+
 
 
 

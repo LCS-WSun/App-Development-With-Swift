@@ -7,6 +7,8 @@ var firstDecimal = 1.5463
 
 var SecondDecimal = 4.2525
 
+They are both a double
+
 /*:
  Declare a variable called `trueOrFalse` and give it a boolean value. Try to assign it to `firstDecimal` like so: `firstDecimal = trueOrFalse`. Does it compile? Print a statement to the console explaining why not, and remove the line of code that will not compile.
  */
