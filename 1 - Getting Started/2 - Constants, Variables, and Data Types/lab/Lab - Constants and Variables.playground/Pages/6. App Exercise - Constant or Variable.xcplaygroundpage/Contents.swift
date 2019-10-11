@@ -14,8 +14,8 @@
 let name = "Wesley"
 print ("I chose to use name as a constant because the user will not change their name and it will remain constant")
 
-var age = Int.random(in:1...120)
-print ("the reason why I chose age as a variable because the user will not be the same age throuought using this fitness tracking app."
+var age = Int.random(in:1...100)
+print ("the reason why I chose age as a variable because the user will not be the same age throuought using this fitness tracking app.")
 
 var numberOfStepsTakenToday = 204
 print ("the reason why this is a variable because the numer of steps will not be consistent" )

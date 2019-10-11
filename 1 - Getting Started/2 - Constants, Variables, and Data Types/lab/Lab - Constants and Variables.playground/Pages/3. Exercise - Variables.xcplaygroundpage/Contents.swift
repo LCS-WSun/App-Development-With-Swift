@@ -15,6 +15,6 @@ print(schooling)
 /*:
  Does the above code compile? Why is this different than trying to update a constant? Print your explanation to the console using the `print` function.
  */
-print("The reason why the code compiles is because a variables funciton is able to change its value. In a constant, it can only be one value throuhout the whole program")
+print("The reason why the code compiles is because a variable is able to change its value. In a constant, it can only be one value throughout the whole program")
 
 //: [Previous](@previous)  |  page 3 of 10  |  [Next: App Exercise - Step Count](@next)

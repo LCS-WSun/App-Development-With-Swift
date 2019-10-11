@@ -14,5 +14,5 @@ print(steps)
 steps = 2000
 print("Goodjob! You're well on your way to your daily goal.")
 
-Steps is printing 2000 for some reason
+
 //: [Previous](@previous)  |  page 4 of 10  |  [Next: Exercise - Constant or Variable?](@next)

@@ -16,7 +16,7 @@ var numberOfcomments = 15
 
 let yearCreated = "2005"
 
-var monthPostWasCreated = Int.random(in:1...12)
+var monthPostWasCreated = 10
 
 let dayOfMonth = "15 of October"
 
