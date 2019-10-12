@@ -7,7 +7,7 @@ var firstDecimal = 1.5463
 
 var SecondDecimal = 4.2525
 
-They are both a double
+print("They are both a double")
 
 /*:
  Declare a variable called `trueOrFalse` and give it a boolean value. Try to assign it to `firstDecimal` like so: `firstDecimal = trueOrFalse`. Does it compile? Print a statement to the console explaining why not, and remove the line of code that will not compile.
@@ -21,19 +21,20 @@ print("The reason why this does not compile is because a Boolean value gives tru
 /*:
  Declare a variable and give it a string value. Then try to assign it to `firstDecimal`. Does it compile? Print a statement to the console explaining why not, and remove the line of code that will not compile.
  */
-var = string
+var stringValue = "Yes"
 
-var firstDecimal = String
+var stringValue = firstDecimal
+
+print ("The reason why this statement will not compile is beccause a varible with a string value only represents text while firstDecimal represents a double which ia a number with decimal places. The two statements have different functions and will not compile")
 
 /*:
  Finally, declare a variable with a whole number value. Then try to assign it to `firstDecimal`. Why won't this compile even though both variables are numbers? Print a statement to the console explaining why not, and remove the line of code that will not compile.
  */
-var = 9
+Int wholeNumber = 9
 
-var firstDecimal = 9
+Int wholeNumber = firstDecimal
 
-print(")
+print("The reason why this statement will not compile because the whole number value type is a Int which only represents whole numbers while firstDecimal represents  double which represents a number with a decimal point. This then is the reason why the code will not compile" )
 
 
-Go through this page again "did not get alot of it"
 //: [Previous](@previous)  |  page 7 of 10  |  [Next: App Exercise - Tracking Different Types](@next)
