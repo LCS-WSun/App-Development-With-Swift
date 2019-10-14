@@ -3,6 +3,20 @@
  
  Declare a variable whose value begins at 10. Using addition, update the value to 15 using the compound assignment operator. Using multiplication, update the value to 30 using compound assignment. Print out the variable's value after each assignment.
  */
+var  ten = 10
+
+print ("10")
+
+ten += 5
+
+print ("15")
+
+ten *= 2
+
+print ("15")
+
+
+
 
 
 /*:
@@ -16,6 +30,25 @@
  
  Print the balance of your piggy bank after each step.
  */
+var piggyBank = 0
+print("0")
+
+piggyBank += 10
+print("10")
+
+piggyBank += 20
+print("30")
+
+piggyBank /= 2
+print("15")
+
+piggyBank *= 3
+print("45")
+
+piggyBank -= 3
+print("42")
+
+
 
 
 
