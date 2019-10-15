@@ -20,9 +20,10 @@ averageHeartRate = (heartRate1 + heartRate2 + heartRate3 / 3)
  */
 let tempInFahrenheit = 98.6
 
-tempInFahrenheit = (- 32 8 (5.0/9.0))
+tempInCelsius = tempInFahrenheit - 32 * (5.0/9.0)
 
-temInCelsius =
 
-do later 
+
+
+
 //: [Previous](@previous)  |  page 6 of 8  |  [Next: Exercise - Numeric Type Conversion](@next)

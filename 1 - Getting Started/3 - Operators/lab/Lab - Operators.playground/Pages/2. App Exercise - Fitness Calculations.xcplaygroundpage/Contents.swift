@@ -37,11 +37,9 @@ print("81.66666666667")
 /*:
  Imagine that partway through the day a user has taken 3,467 steps out of the 10,000 step goal. Create constants `steps` and `goal`. Both will need to be of type `Double` so that you can perform accurate calculations. `steps` should be assigned the value 3,467, and `goal` should be assigned 10,000. Create a constant `percentOfGoal` that equals an expression that evaluates to the percent of the goal that has been achieved so far.
  */
-let steps: Double = 3,467
+let steps: Double = 3467
 
-let stepgoal: Double = 10,000
+let stepgoal: Double = 10000
 
-let percentofGoal =
-
-not sure?
+let percentofGoal = (steps/stepgoal * 100)
 //: [Previous](@previous)  |  page 2 of 8  |  [Next: Exercise - Compound Assignment](@next)

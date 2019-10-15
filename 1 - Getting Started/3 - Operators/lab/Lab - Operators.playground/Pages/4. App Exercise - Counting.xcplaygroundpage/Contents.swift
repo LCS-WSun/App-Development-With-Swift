@@ -7,7 +7,7 @@
  */
 var steps = 0
 
-var steps = x+1
+var steps = steps +1
 
 don't know how to do it
 
@@ -18,10 +18,9 @@ don't know how to do it
  */
 var distance: Double = 50
 
-var distance = 1
 
-distance = 3
+don't know how to do it?
 
-don't know how to do it
+
 
 //: [Previous](@previous)  |  page 4 of 8  |  [Next: Exercise - Order of Operations](@next)
